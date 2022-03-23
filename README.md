@@ -1,2 +1,2 @@
-# binaries
-Models and pre-built binaries for esmini
+# esmini resources
+Models, pre-built binaries and other non-code resources
